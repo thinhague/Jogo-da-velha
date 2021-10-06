@@ -49,7 +49,7 @@ O projeto consiste em um jogo da velha, com contador de pontos e muito atrativo.
 #### Clonando o projeto
 ```sh
 git clone https://github.com/thinhague/Jogo-da-velha
-cd UrnaEletronica
+cd Jogo-da-velha
 Depois disso é so mexer no projeto.
 ```
 
